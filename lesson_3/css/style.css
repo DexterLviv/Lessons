@@ -1,0 +1,35 @@
+h2{
+    color: brown;
+}
+#top{
+    color: rgb(14, 127, 133);
+}
+.parts{
+    color: brown
+}
+.text,
+.art
+{
+    color: rgb(253, 1, 199);
+}
+.fly p{
+    color: olive;
+}
+.lesson{
+    color: orange;
+}
+.text.lesson{
+    color: rgb(28, 112, 56);
+}
+.down h2{
+    color: rgb(255, 0, 0);
+}
+.down .spy{
+    color: rgb(113, 228, 36);
+}
+.low > p{
+    color: blue;
+}
+.take ~ p{
+    color: rgb(238, 223, 17);
+}
