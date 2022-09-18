@@ -65,8 +65,10 @@ ol{
 	margin-bottom: 30px;
 	padding: 40px;
 }
-#sander,
-#driller{
+#driller,
+#circularer,
+#jigsawer,
+#millerer {
 	background-color: rgb(255, 255, 255) ;
 	padding-left: 50px;
 	padding-top: 25px;
@@ -77,16 +79,27 @@ ol{
 	font-family: "Playfair Display", serif;
 	font-size: 25px;
 	text-shadow: 3px 3px 15px rgba(172, 0, 0, 0.712);
-	
-}
-#sander{
-	margin-right: 265px;
-	word-spacing: 30px;
-}
-#driller{
 	margin-right: 573px;
 }
-#drillball{
+#sanderer{
+	margin-right: 265px;
+	word-spacing: 30px;
+	background-color: rgb(255, 255, 255) ;
+	padding-left: 50px;
+	padding-top: 25px;
+	padding-right: 2%;
+	padding-bottom: 2%;
+	letter-spacing: 5px;
+	text-align: center;
+	font-family: "Playfair Display", serif;
+	font-size: 25px;
+	text-shadow: 3px 3px 15px rgba(172, 0, 0, 0.712);
+}
+#drillball,
+#jigsawball,
+#circularball,
+#millerball,
+#senderball {
 	background-color: rgb(255, 255, 255);
 	padding: 30px;
 	margin-right: 100px;
