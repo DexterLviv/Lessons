@@ -1,21 +1,21 @@
 @import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;600&display=swap');
 @font-face{
 	font-family: "Playfair Display";
-	src: url(../fonts/PlayfairDisplay-Bold.woff2) format("woff2"), url(../fonts/PlayfairDisplay-Bold.woff2) format(woff);
+	src: url(../fonts/PlayfairDisplay-Bold.woff2) format("woff2"), url(../fonts/PlayfairDisplay-Bold.woff2) format("woff");
 	font-display: swap;
 	font-weight: 700;
 	font-style: normal;
 }
 @font-face{
 	font-family: "Playfair Display";
-	src: url(../fonts/PlayfairDisplay-MediumItalic.woff2) format("woff2"), url(../fonts/PlayfairDisplay-MediumItalic.woff) format(woff);
+	src: url(../fonts/PlayfairDisplay-MediumItalic.woff2) format("woff2"), url(../fonts/PlayfairDisplay-MediumItalic.woff) format("woff");
 	font-display: swap;
 	font-weight: 500;
 	font-style: italic;
 }
 @font-face{
 	font-family: "Playfair Display";
-	src: url(../fonts/PlayfairDisplay-Medium.woff2) format("woff2"), url(../fonts/PlayfairDisplay-Medium.woff) format(woff);
+	src: url(../fonts/PlayfairDisplay-Medium.woff2) format("woff2"), url(../fonts/PlayfairDisplay-Medium.woff) format("woff");
 	font-display: swap;
 	font-weight: 500;
 	font-style: italic;
