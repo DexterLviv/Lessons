@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+.container *{
+    margin: 0 auto;
+    max-width: 770px;
+}
+.hr{
+    
+    font-family: Lato;
+    font-weight: 900;
+    font-style: normal;
+    font-size: 46px;
+    margin-top: 20px;
+    line-height: 60px;
+    margin-bottom: 60px;
+}
+.image{
+    max-width: 770px;
+    margin-bottom: 50px;
+}
+.similar{
+    font-family: Lato;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    max-width: 770px;
+}
+.vulputate{
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    max-width: 770px;
+    margin-bottom: 25px;
+}
+.facilisi1{
+    margin-bottom: 40px;
+}
+.facilisi2{
+    margin-bottom: 50px;
+}
+.lorem{
+    margin: 0 0 0 auto;
+    font-family: Lato;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 30px;
+    max-width: 700px;
+    margin-bottom: 50px;
+}
+.mauris{
+    margin-bottom: 40px;
+}
+.text{
+    margin: 0 0 0 40px;
+    max-width: 600px;
+    margin-bottom: 20px;
+}
+.homework *{
+    max-width: 300px;
+    margin-top: 150px;
+    margin-bottom: ;
+    padding-left: 50px;
+    display: inline-block;
+}
+.first{
+    padding-right: 5px;
+    text-align: justify;
+    border-radius: 20PX;
+    overflow: hidden;
+    max-width: 400px;
+    max-height: 700px;
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: rgba(31, 126, 74, 0.356);
+    border: 5px solid coral;
+    outline: 15px dashed rgba(223, 19, 19, 0.616);
+}
+.second{
+    padding-top: 150px;
+    max-height: 300px;
+    border-radius: 100% 0% 0% 100% / 100% 100% 0% 0% ;
+    overflow: scroll;
+    background-color: rgba(110, 95, 25, 0.562);
+    margin-right: 100px;
+    
+}
+.third{
+    border-top: 10px double rgb(36, 151, 107);
+    overflow: visible;
+    max-width: 400px;
+    background-color: rgba(158, 32, 32, 0.356);
+    box-shadow: 100px -40px 40px 40px;
+    opacity: 0.8;
+}
+.link:focus{
+    font-size: 50px;
+    margin: 20px;
+    display: inline-block;
+    outline: 3px solid rgb(30, 116, 111);
+}
+.circle{
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto 40px;
+    background-color: rgb(11, 81, 90);
+    box-shadow: inset 0 -30px 30px 10px;
+}
