@@ -1,7 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
-.container *{
+.stat{
+    background-color: rgba(201, 42, 42, 0.719);
+}
+.stat_container *{
     margin: 0 auto;
     max-width: 770px;
+    background-color: rgb(28, 115, 141);
+
 }
 .hr{
     
@@ -9,7 +14,6 @@
     font-weight: 900;
     font-style: normal;
     font-size: 46px;
-    margin-top: 20px;
     line-height: 60px;
     margin-bottom: 60px;
 }
