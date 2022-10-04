@@ -13,7 +13,7 @@
     line-height: 30px;
     font-style: normal;
 }
-header{
+main{
     background: url(../img/bigleaf.png) 0 100px / 500px 750px fixed no-repeat, url(../img/arrow.png) 15% / 200px 200px repeat-y, url(../img/arrow.png) 85% / 200px 200px repeat-y, linear-gradient(90deg, rgba(33,155,199,1) 0%, rgba(37,167,180,1) 0%, rgba(39,173,170,0.8463760504201681) 29%, rgba(45,189,145,0.2777485994397759) 92%) ;
 }
 .main_block{
